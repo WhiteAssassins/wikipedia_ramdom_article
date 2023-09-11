@@ -1,0 +1,14 @@
+{
+    "nombre": "Generador de Artículos Aleatorios de Wikipedia",
+    "descripcion": "Una aplicación web que muestra artículos aleatorios de Wikipedia en el idioma del usuario.",
+    "fecha_creacion": "2023-09-10",
+    "version": "1.0",
+    "fecha_ultima_actualizacion": "2023-09-10",
+    "herramientas_utilizadas": ["HTML", "CSS", "JavaScript", "PHP"],
+    "creador": "WhiteAssassins",
+    "lenguaje": "JavaScript",
+    "categorias": ["Herramientas", "Educación"],
+    "etiquetas": ["Web", "Generador de Artículos", "Wikipedia", "JavaScript", "CSS", "HTML", "PHP"],
+    "licencia": "Licencia MIT",
+    "estado": "Completado"
+}

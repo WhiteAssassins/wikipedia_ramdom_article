@@ -1,0 +1,29 @@
+        /* Agrega estilos CSS personalizados aquí */
+        body {
+            background-image: url('night.avif'); /* Cambia 'tu_imagen_de_fondo.jpg' por la URL de tu imagen de fondo */
+            background-size: cover;
+        }
+        .card {
+            background-color: rgba(255, 255, 255, 0.8); /* Transparencia del fondo de la card */
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+        }
+        .loader {
+            border: 4px solid rgba(255, 255, 255, 0.3);
+            border-radius: 50%;
+            border-top: 4px solid #3498db;
+            width: 30px;
+            height: 30px;
+            animation: spin 2s linear infinite;
+            margin: 0 auto;
+            margin-top: 10px;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
